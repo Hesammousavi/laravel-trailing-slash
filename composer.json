@@ -1,7 +1,6 @@
 {
     "name": "fsasvari/laravel-trailing-slash",
     "description": "The package that adds redirection with trailing slash to Laravel framework.",
-    "version": "6.0",
     "keywords": [
         "redirect",
         "url",
@@ -44,6 +43,5 @@
                 "LaravelTrailingSlash\\RoutingServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
